@@ -45,12 +45,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshul-Bhardwaj-21&show_icons=true&theme=tokyonight&border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul-Bhardwaj-21&theme=tokyonight&hide_border=true%22%20width=%2248%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshul-Bhardwaj-21&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul-Bhardwaj-21&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-Bhardwaj-21&layout=compact&theme=tokyonight&border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-Bhardwaj-21&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -64,7 +64,6 @@
 | **Tweet Fetcher GUI** | Tool to fetch tweets based on keyword & date |
 | **Weather Forecast Site** | Real-time weather dashboard with API |
 | **To-Do Reminder App** | App for smart task reminders & alerts |
-| **Eclipse of the Reapers** | Story-driven fictional universe (book series) |
 
 ---
 
