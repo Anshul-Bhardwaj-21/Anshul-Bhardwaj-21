@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshul Bhardwaj</h1>
-<h3 align="center">Tech Explorer • CSE Undergrad • Code Optimizer • App Dev Enthusiast</h3>
+<h3 align="center">CSE Undergrad @CCET • App Dev • UI/UX Explorer • Code Optimizer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=CS+Engineer+from+CCET%2C+Chandigarh;Passionate+Developer+%7C+Open+Source+Lover;Love+Solving+Problems+%7C+Building+Projects;Always+learning+something+new!" />
@@ -7,27 +7,38 @@
 
 ---
 
-- 🌱 Currently pursuing **B.Tech CSE** from CCET, Chandigarh
-- 🛠️ Building: `Vibesync`, `FindMyBarber`, `Weather Forecast Site`, `To-Do App`, `GUI Tweet Fetcher`
-- 📱 Skilled in: **Flutter, Dart, Java, C, Python, PHP**
-- 💬 Ask me about: *Optimizing code, app UI/UX, ATS-friendly resumes*
-- 📫 Connect with me: **anshulbhardwajdude@gmail.com**
+- 🎓 Pursuing **B.Tech in Computer Science Engineering** from CCET, Chandigarh  
+- ⚡ Currently learning: **React.js**, **Next.js**, and full-stack development  
+- 🛠️ Projects: `Vibesync`, `FindMyBarber`, `Weather Site`, `To-Do Reminder`, `Tweet Fetcher GUI`  
+- 📚 Interests: Code optimization, UI/UX design, IoT systems, story-driven tech ideas  
+- 📫 Reach me: **anshulbhardwaj201@gmail.com**
 
 ---
 
-### 🔨 Languages & Tools
+### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+**Frontend & UI Frameworks:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -48,12 +59,12 @@
 
 | Project | Description |
 |--------|-------------|
-| **Vibesync** | A music app with intelligent mood sync |
-| **FindMyBarber** | Flutter app inspired by InDriver for finding nearby barbers |
-| **GUI Tweet Fetcher** | Twitter GUI tool to fetch recent tweets by keywords |
-| **Weather Forecast Site** | Real-time weather dashboard built using APIs |
-| **To-Do Reminder App** | Smart reminders for tasks like assignments, pet feeding, etc. |
-| **Reapers Series** | A story-driven universe being developed as an e-book series |
+| **Vibesync** | Music app that syncs with mood & energy |
+| **FindMyBarber** | App like InDriver to find & book barbers nearby |
+| **Tweet Fetcher GUI** | Tool to fetch tweets based on keyword & date |
+| **Weather Forecast Site** | Real-time weather dashboard with API |
+| **To-Do Reminder App** | App for smart task reminders & alerts |
+| **Eclipse of the Reapers** | Story-driven fictional universe (book series) |
 
 ---
 
@@ -65,5 +76,9 @@
 </p>
 
 ---
+
+### 💡 Contributions & Original Ideas
+
+> 🧠 All ideas and designs like the custom loader, music sync app, FindMyBarber UI, and others were envisioned, developed, or initiated by **Anshul Bhardwaj**, unless credited otherwise.
 
 <p align="center">⚡ "Creating with passion, learning with purpose." ⚡</p>
