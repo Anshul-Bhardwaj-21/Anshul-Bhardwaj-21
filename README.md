@@ -78,6 +78,6 @@
 
 ### 💡 Contributions & Original Ideas
 
-> 🧠 All ideas and designs like the custom loader, music sync app, FindMyBarber UI, and others were envisioned, developed, or initiated by **Anshul Bhardwaj**, unless credited otherwise.
+> 🧠 All ideas and designs developed, or initiated by **Anshul Bhardwaj**, unless credited otherwise.
 
 <p align="center">⚡ "Creating with passion, learning with purpose." ⚡</p>
