@@ -2,7 +2,7 @@
 <h3 align="center">CSE Undergrad @CCET • App Dev • UI/UX Explorer • Code Optimizer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Engineer+Student+from+CCET%2C+Chandigarh;Passionate+Developer+%7C+Open+Source+Lover;Love+Solving+Problems+%7C+Building+Projects;Always+learning+something+new!" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Engineering+Student+from+CCET%2C+Chandigarh;Passionate+Developer+%7C+Open+Source+Lover;Love+Solving+Problems+%7C+Building+Projects;Always+learning+something+new!" />
 </p>
 
 ---
