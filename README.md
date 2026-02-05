@@ -62,6 +62,7 @@
 | **Vibesync** | Music app that syncs with mood & energy |
 | **FindMyBarber** | App like InDriver to find & book barbers nearby |
 | **Tweet Fetcher GUI** | Tool to fetch tweets based on keyword & date |
+| **Smart Reminer App** | Smart reminder app with scheduled alerts and task management |
 | **Weather Forecast Site** | Real-time weather dashboard with API |
 | **To-Do Reminder App** | App for smart task reminders & alerts |
 
