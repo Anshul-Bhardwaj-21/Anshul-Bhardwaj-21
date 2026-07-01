@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anshul Bhardwaj</h1>
-<h3 align="center">CSE Undergrad @CCET • App Dev • UI/UX Explorer • Code Optimizer</h3>
+<h3 align="center">AI Systems Engineer • ML Intern @ DRDO • Backend Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Engineering+Student+from+CCET%2C+Chandigarh;Passionate+Developer+%7C+Open+Source+Lover;Love+Solving+Problems+%7C+Building+Projects;Always+learning+something+new!" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=B.E.+CSE+Undergrad+(Class+of+2027);Machine+Learning+Intern+at+DRDO;Building+Low-Latency+AI+Pipelines;Architecting+Distributed+Systems;Problem+Solving+and+Core+CS+Enthusiast!" />
 </p>
 
 ---
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering** from CCET, Chandigarh  
-- ⚡ Currently learning: **React.js**, **Next.js**, and full-stack development  
-- 🛠️ Projects: `Vibesync`, `FindMyBarber`, `Weather Site`, `To-Do Reminder`, `Tweet Fetcher GUI`  
-- 📚 Interests: Code optimization, UI/UX design, IoT systems, story-driven tech ideas  
+- 💼 Currently working as a **Machine Learning Intern at DRDO**, building predictive risk-analysis pipelines.
+- 🎓 Pursuing **B.E. in Computer Science Engineering** (Class of 2027).
+- ⚡ Currently building/researching: **NexaOS** (Distributed Computing Architecture) and low-latency **AI/ML systems**.
+- 🏆 Hackathon Laureate: 1st Place (Tech Tank Innovation), 3rd Place (Anusandhan Hackathon for Plant-Pal).
 - 📫 Reach me: **anshulbhardwaj201@gmail.com**
 
 ---
@@ -18,53 +18,52 @@
 ### 🛠 Tech Stack
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-**Frontend & UI Frameworks:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**AI & Machine Learning:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00B2A9?style=flat&logo=google&logoColor=white)
 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Tools & Platforms:**  
+**Backend, Systems & Cloud:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Frontend Frameworks:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+---
+
+### 🚀 Featured Architectures & Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **[SignX](https://github.com/Anshul-Bhardwaj-21/sign-language-translator)** | Real-time Indian Sign Language (ISL) translation pipeline achieving 99%+ accuracy. | `PyTorch`, `OpenCV`, `MediaPipe` |
+| **[Plant-Pal](https://github.com/Anshul-Bhardwaj-21/Plant-Pal-React)** | On-device AI plant health diagnostic ecosystem (3rd Place Hackathon Winner). | `TF.js`, `React`, `TypeScript` |
+| **NexaOS** | Conceptualizing core networking & kernel architecture for a distributed computing OS. | `Systems Design`, `Networking` |
+| **[VibeSync](https://github.com/Anshul-Bhardwaj-21/vibesync)** | Real-time state synchronization backend for concurrent audio playback. | `Flutter`, `Firebase`, `WebSockets` |
+| **Reparo** | Fault-tolerant custom compiler designed for auto-remediation of syntax logic. | `Python`, `Compiler Design` |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anshul-Bhardwaj-21&show_icons=true&theme=tokyonight&hide_border=true" width="48%""/>
-  <img src="https://streak-stats.demolab.com?user=Anshul-Bhardwaj-21&theme=tokyonight&hide_border=true" width="48%""/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anshul-Bhardwaj-21&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Anshul-Bhardwaj-21&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anshul-Bhardwaj-21&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anshul-Bhardwaj-21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| **Vibesync** | Music app that syncs with mood & energy |
-| **FindMyBarber** | App like InDriver to find & book barbers nearby |
-| **Tweet Fetcher GUI** | Tool to fetch tweets based on keyword & date |
-| **Smart Reminer App** | Smart reminder app with scheduled alerts and task management |
-| **Weather Forecast Site** | Real-time weather dashboard with API |
-| **To-Do Reminder App** | App for smart task reminders & alerts |
 
 ---
 
@@ -74,11 +73,3 @@
   <a href="mailto:anshulbhardwaj201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/anshul-bhardwaj-63733625b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
----
-
-### 💡 Contributions & Original Ideas
-
-> 🧠 All ideas and designs developed, or initiated by **Anshul Bhardwaj**, unless credited otherwise.
-
-<p align="center">⚡ "Creating with passion, learning with purpose." ⚡</p>
